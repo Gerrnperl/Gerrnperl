@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kxq-ttjq.
+- 👋 Hi, I’m @kxq-ttjq.✨
 - 👀 I’m a senior high school student from CN as well as a 🐣noob who love coding.
 - 🌱 I’m currently learning JavaScript.
 ```

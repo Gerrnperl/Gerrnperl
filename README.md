@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gerrnperl.✨
-- 👀 I’m a senior high school student from CN as well as a 🐣noob who love coding.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m a senior high school student from CN.
 ```
                     ⣿⣿⣿⣿⣿⣿⢟⣡⣴⣶⣶⣦⣌⡛⠟⣋⣩⣬⣭⣭⡛⢿⣿⣿⣿⣿
                     ⣿⣿⣿⣿⠋⢰⣿⣿⠿⣛⣛⣙⣛⠻⢆⢻⣿⠿⠿⠿⣿⡄⠻⣿⣿⣿ 

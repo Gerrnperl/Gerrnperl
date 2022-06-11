@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gerrnperl.✨
-- 👀 I’m a senior high school student from CN.
+- 👋 Hi, I’m Gerrnperl Lu.✨
+- 👀 I’m a student from CN.
 ```          
                              Hlol      WeHo                                
                         el                    el                           
